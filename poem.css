@@ -1,0 +1,36 @@
+*{
+	margin:0px;
+	padding:0px;	
+}
+
+.header{
+	width:300px;
+	height:300px;
+	margin-left:10px;
+	margin-top:5px;
+}
+
+.header img{
+	width:200px;
+	height:200px;
+}
+
+.container{
+	width:100%;
+	margin-left:10px;
+}
+
+.title{
+	margin:20px 0 50px 0;
+}
+
+.title .title-text{
+	font-size:20px;
+	font-weight:bold;
+}
+
+.footer{
+	width:100%;
+	font-style: italic;
+	margin-top:5px;
+}
